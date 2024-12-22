@@ -3,7 +3,7 @@
   <b>Computer Engineering | Machine Learning</b>
 </p>
 
-### ✨ About Me  
+# ✨ About Me  
 
 - 🌟 Hi there! I’m Rawisara Chairat (KM), a Computer Engineering student at Boston University with a concentration in Machine Learning. 
 
