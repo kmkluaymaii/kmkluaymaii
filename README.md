@@ -16,8 +16,8 @@
 
 ## 🛠️ **Skills**  
 
-### **Programming Languages**  
+#### **Programming Languages**  
 - C++, C, Python, Verilog, MATLAB, Pytorch, JavaScript, HTML, CSS  
 
-### **Tools and Frameworks**  
+#### **Tools and Frameworks**  
 - FPGA Design, CAD Software, Digital Logic Design  
