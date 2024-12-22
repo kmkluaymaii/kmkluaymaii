@@ -13,3 +13,11 @@
 - 📧 Email: [rawisara@bu.edu](mailto:rawisara@bu.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/rawisarachairat](https://linkedin.com/in/rawisarachairat)  
 
+### 🛠️ **Skills**  
+
+#### **Programming Languages**  
+- **Proficient**: C++, C, Python, Verilog, MATLAB  
+- **Familiar**: Pytorch, JavaScript, HTML, CSS  
+
+#### **Tools and Frameworks**  
+- FPGA Design, CAD Software, Digital Logic Design  
