@@ -10,4 +10,3 @@
 - 📧 Email: [rawisara@bu.edu](mailto:rawisara@bu.edu)  
 - 🔗 LinkedIn: [linkedin.com/in/rawisarachairat](https://linkedin.com/in/rawisarachairat)  
 
----
