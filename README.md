@@ -16,8 +16,7 @@
 ### 🛠️ **Skills**  
 
 #### **Programming Languages**  
-- **Proficient**: C++, C, Python, Verilog, MATLAB  
-- **Familiar**: Pytorch, JavaScript, HTML, CSS  
+- C++, C, Python, Verilog, MATLAB, Pytorch, JavaScript, HTML, CSS  
 
 #### **Tools and Frameworks**  
 - FPGA Design, CAD Software, Digital Logic Design  
