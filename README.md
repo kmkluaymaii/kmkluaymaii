@@ -4,6 +4,7 @@
 </p>
 
 <h3 style="font-size: 5px;">✨ About Me</h3>
+<h2></h2>
 
 - 🌟 Hi there! I’m Rawisara Chairat (KM), a Computer Engineering student at Boston University with a concentration in Machine Learning. 
 
