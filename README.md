@@ -8,7 +8,6 @@
 
 - ✈️ I'm from Bangkok, Thailand currently based in Boston, MA
 
-<br>  
 
 ##  🌐 **Let’s Connect!**  
 
