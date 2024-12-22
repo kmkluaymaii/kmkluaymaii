@@ -3,7 +3,7 @@
   <b>Computer Engineering | Machine Learning</b>
 </p>
 
-🌟 Hi there! I’m **Rawisara Chairat**, a Computer Engineering student at **Boston University** with a concentration in **Machine Learning**. I have a strong academic background and hands-on experience in hardware-software integration, AI sustainability, and interactive digital design.  
+🌟 Hi there! I’m Rawisara Chairat (KM), a Computer Engineering student at Boston University with a concentration in Machine Learning. I have a strong academic background and hands-on experience in hardware-software integration, AI sustainability, and interactive digital design.  
 
 ---
 
