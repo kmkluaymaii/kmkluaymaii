@@ -13,7 +13,7 @@
 
 ##  🌐 **Let’s Connect!**  
 
-- 📧 Email: [rawisara@bu.edu](mailto:rawisara@bu.edu)  
+- 📧 Email: [rawisara.chat@gmail.com](mailto:rawisara.chat@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/rawisarachairat](https://linkedin.com/in/rawisarachairat)  
 
 <br style="line-height: 0.5;">  
