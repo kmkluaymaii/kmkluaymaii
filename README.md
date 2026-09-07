@@ -5,9 +5,9 @@
 
 <br style="line-height: 0.5;">  
 
-- 🌟 Hi there! I’m Rawisara Chairat (KM), a Computer Engineering student at Boston University with a concentration in Machine Learning. 
+- 🌟 Hi there! I’m Rawisara Chairat (KM), an ECE master's student at Cornell Tech. 
 
-- ✈️ I'm from Bangkok, Thailand currently based in Boston, MA
+- ✈️ I'm from Bangkok, Thailand currently based in New York, NY
 
 <br style="line-height: 0.5;">  
 
@@ -21,7 +21,7 @@
 ## 🛠️ **Skills**  
 
 ### **Programming Languages**  
-- C++, C, Python, Verilog, MATLAB, Pytorch, JavaScript, HTML, CSS  
+- C++, C, Python, Verilog, SQL, MATLAB, JavaScript, HTML, CSS  
 
 ### **Tools and Frameworks**  
-- FPGA Design, CAD Software, Digital Logic Design  
+- Blender, Unreal Engine, FPGA Design, CAD Software, Digital Logic Design  
